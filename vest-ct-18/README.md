@@ -18,7 +18,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: CT Precinct-Level Election Results
   - Online: n/a 
   - Accessed: 11/12/21 
-  - Note: We received these through email correspondence with the CT SOS Office. 
+  - Note: Received via email correspondence with LEAD@ct.gov. LEAD is the Legislation and Elections Administration Division of the CT SOS.
 
 ## File processing
 
