@@ -18,7 +18,15 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: CT Precinct-Level Election Results
   - Online: n/a 
   - Accessed: 11/12/21 
-  - NNote: Received via email correspondence with LEAD@ct.gov. LEAD is the Legislation and Elections Administration Division of the CT SOS. 
+  - Note: Received via email correspondence with LEAD@ct.gov. LEAD is the Legislation and Elections Administration Division of the CT SOS. 
+
+- File: CT Town to County Crosswalk
+  - Online: https://data.ct.gov/Local-Government/Connecticut-Towns-Crosswalk-with-Tax-Codes-and-FIP/5hqs-h5c3/data
+  - Accessed: 11/16/21
+
+- File: CT Precinct Shapefile
+  - Online: https://www.census.gov/geo/partnerships/pvs/partnership19v2/st09_ct.html
+  - Accessed: 11/17/21   
 
 ## File processing
 
